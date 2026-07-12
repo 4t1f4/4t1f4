@@ -13,14 +13,25 @@
 <br/>
 
 
-## 💜 About Me
+## 💠 About Me
 
-```yaml
-Name:      Atifa Sajida
-Education: B.Sc. Computer Science Student, Mumbai, India
-Interests: Full Stack Development • Web Development • AR Experiences
-Passion:   Learning by building real-world projects
-Goal:      Aspiring Full Stack Developer 🚀
+```console
+$ whoami
+
+👤 Atifa Sajida
+🎓 B.Sc. Computer Science Student
+📍 Mumbai, India
+
+💻 Interested in:
+   • Full Stack Development
+   • Web Development
+   • AR Experiences
+
+🚀 Currently:
+   Building projects while learning new technologies.
+
+🎯 Goal:
+   Become a Full Stack Developer.
 ```
 
 <br/>
@@ -166,7 +177,7 @@ Alongside coding, I also create **Snapchat AR Lenses**, combining creativity wit
 <a href="https://github.com/4t1f4">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/sajida-024879366?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/atifa-sajida-024879366?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <!-- <a href="#">
@@ -175,14 +186,17 @@ Alongside coding, I also create **Snapchat AR Lenses**, combining creativity wit
 <a href="#">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> -->
+<a href="https://www.snapchat.com/@noturs06">
+  <img src="https://img.shields.io/badge/Snapchat-D14836?style=for-the-badge&logo=snapchat&logoColor=white"/>
+</a>
 
 </div>
 
 <br/>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:008CFF,100:00F5FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:008CFF,100:00F5FF&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  <sub><b>Learning never stops. One commit at a time. 💜</b></sub>
+  <sub><b>Learning never stops. One commit at a time. 💠</b></sub>
 </div>
