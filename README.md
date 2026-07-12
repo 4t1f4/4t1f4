@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D50BB,100:6E48AA&height=250&section=header&text=Hi%20There,%20I'm%20Atifa%20Sajida%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Projects,%20One%20Commit%20at%20a%20Time&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=D46EFF&center=true&vCenter=true&width=650&lines=B.Sc.+Computer+Science+Student;Python+•+Flask+•+Java;Learning+React+•+C%23;Building+Projects,+One+Commit+at+a+Time;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=25&duration=3200&pause=900&color=D46EFF&center=true&vCenter=true&width=750&lines=B.Sc.+Computer+Science+Student;Python+%7C+Java+%7C+C%23+%7C+C%2B%2B;HTML+%7C+CSS+%7C+JavaScript;Flask+%7C+React+%7C+SQL+%7C+MySQL;Snapchat+AR+Lens+Creator;Building+Projects,+One+Commit+at+a+Time;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
 </a>
 
 
@@ -37,8 +37,8 @@ Goal:      Aspiring Full Stack Developer 🚀
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 
 ### Frameworks & Libraries
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -47,7 +47,14 @@ Goal:      Aspiring Full Stack Developer 🚀
 ### Databases
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+
+### Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lens_Studio-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
 
 </div>
 
@@ -75,15 +82,6 @@ Goal:      Aspiring Full Stack Developer 🚀
 
 <div align="center">
 
-<a href="https://github.com/4t1f4/whisper-pages">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4t1f4&repo=whisper-pages&theme=radical&title_color=D46EFF&icon_color=9D50BB&text_color=c9d1d9&bg_color=0d1117&border_color=9D50BB" />
-</a>
-
-<a href="https://github.com/4t1f4/birthday-matrix-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4t1f4&repo=birthday-matrix-website&theme=radical&title_color=D46EFF&icon_color=9D50BB&text_color=c9d1d9&bg_color=0d1117&border_color=9D50BB" />
-</a>
-
-<br/>
 
 | Project | Description | Live |
 |---------|-------------|------|
@@ -109,7 +107,9 @@ Goal:      Aspiring Full Stack Developer 🚀
 
 ## 🎨 Creative Side
 
-Alongside coding, I also create **Snapchat AR Lenses**, blending creativity with technology to build interactive experiences.
+Alongside coding, I also create **Snapchat AR Lenses**, combining creativity with technology to build interactive experiences.
+
+✨ My lenses have reached **935M+ views worldwide**, and I enjoy designing fun, engaging AR experiences in addition to building web applications.
 
 
 </div>
@@ -146,8 +146,9 @@ Alongside coding, I also create **Snapchat AR Lenses**, blending creativity with
 ## ⚡ Fun Facts
 
 - 🌸 I enjoy turning ideas into real projects
-- 🎨 I create Snapchat AR Lenses
-- 📚 Currently exploring React, Java & DSA
+- 🎨 Snapchat AR Lens Creator (935M+ views)
+- 💻 I love building aesthetic web applications
+- 📚 Currently exploring React, Java, C#, C++ & DSA
 - 💡 I believe the best way to learn is by building
 
 </div>
