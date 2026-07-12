@@ -127,10 +127,10 @@ Alongside coding, I also create **Snapchat AR Lenses**, combining creativity wit
 
 <img src="https://streak-stats.demolab.com?user=4t1f4&theme=radical&hide_border=true&background=0D1117&ring=D46EFF&fire=9D50BB&currStreakLabel=D46EFF" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4t1f4&theme=radical&hide_border=true&bg_color=0D1117&color=D46EFF&line=9D50BB&point=ffffff" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4t1f4&theme=radical&hide_border=true&bg_color=0D1117&color=D46EFF&line=9D50BB&point=ffffff"/>
 
 ### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=4t1f4&theme=radical&no-frame=true&row=1&column=7" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=4t1f4&theme=radical&no-frame=true&row=1&column=6"/>
 
 ### 👁️ Visitor Count
 <img src="https://komarev.com/ghpvc/?username=4t1f4&color=9D50BB&style=for-the-badge&label=Profile+Views"/>
