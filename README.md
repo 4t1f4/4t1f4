@@ -186,7 +186,7 @@ Alongside coding, I also create **Snapchat AR Lenses**, combining creativity wit
 <a href="#">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> -->
-<a href="https://www.snapchat.com/@noturs06">
+<a href="https://www.snapchat.com/add/noturs06?share_id=XrhGaVIuLYs&locale=en-GB">
   <img src="https://img.shields.io/badge/Snapchat-D14836?style=for-the-badge&logo=snapchat&logoColor=white"/>
 </a>
 
