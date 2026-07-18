@@ -92,14 +92,6 @@ Become a Full Stack Developer 🚀
 
 <br/>
 
-## 🌱 Currently Working On
-
-- 🌱 Learning React & Java
-- 💻 Building projects to strengthen my development skills
-- 📚 Practicing Data Structures & Algorithms
-
-<br/>
-
 
 
 
