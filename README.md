@@ -72,21 +72,6 @@ Become a Full Stack Developer 🚀
 
 </div>
 
-<br/>
-
-
-
-<div align="center">
-
-## 📚 Currently Learning
-
-<img src="https://img.shields.io/badge/React-Learning-00F5FF?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-Learning-00F5FF?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-Learning-00F5FF?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-Practicing-00F5FF?style=flat-square&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Dev-In%20Progress-00F5FF?style=flat-square&logo=stackshare&logoColor=white"/>
-
-</div>
 
 <br/>
 
