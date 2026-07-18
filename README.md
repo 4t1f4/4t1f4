@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:6E48AA&height=250&section=header&text=Hi%20There,%20I'm%20Atifa%20Sajida%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Projects,%20One%20Commit%20at%20a%20Time&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:00C8FF,100:0066FF&height=250&section=header&text=Hi%20There,%20I'm%20Atifa%20Sajida%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Projects,%20One%20Commit%20at%20a%20Time&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=25&duration=3200&pause=900&color=00C8FF&center=true&vCenter=true&width=750&lines=B.Sc.+Computer+Science+Student;Python+%7C+Java+%7C+C%23+%7C+C%2B%2B;HTML+%7C+CSS+%7C+JavaScript;Flask+%7C+React+%7C+SQL+%7C+MySQL;Snapchat+AR+Lens+Creator;Building+Projects,+One+Commit+at+a+Time;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
@@ -16,22 +16,23 @@
 ## 💠 About Me
 
 ```console
-$ whoami
+atifa@github:~$ whoami
 
-👤 Atifa Sajida
-🎓 B.Sc. Computer Science Student
-📍 Mumbai, India
+👩‍💻 Atifa Sajida
 
-💻 Interested in:
-   • Full Stack Development
-   • Web Development
-   • AR Experiences
+atifa@github:~$ education
+🎓 B.Sc. Computer Science
 
-🚀 Currently:
-   Building projects while learning new technologies.
+atifa@github:~$ interests
+• Full Stack Development
+• Web Development
+• AR Experiences
 
-🎯 Goal:
-   Become a Full Stack Developer.
+atifa@github:~$ current_status
+Building projects while learning new technologies...
+
+atifa@github:~$ goal
+Become a Full Stack Developer 🚀
 ```
 
 <br/>
@@ -94,12 +95,11 @@ $ whoami
 <div align="center">
 
 
-| Project | Description | Live |
+| Project | Description | Demo |
 |---------|-------------|------|
-| 📚 **KathaVerse** | An interactive storytelling website exploring India's oral storytelling traditions. | [Netlify](https://iks-kathaverse.netlify.app/) |
-| 🕊️ **Whisper Pages** | A secure digital diary built with Flask. | [Render](https://whisper-pages.onrender.com/) |
-| 🌌 **Matrix Web Experience** | A personalized Matrix-inspired animated website. | [GitHub Pages](https://4t1f4.github.io/commit1207/) |
-
+| 📚 **KathaVerse** | Interactive storytelling website. | <a href="https://iks-kathaverse.netlify.app/"><img src="https://img.shields.io/badge/OPEN-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black"></a> |
+| 🕊️ **Whisper Pages** | Secure Flask diary. | <a href="https://whisper-pages.onrender.com/"><img src="https://img.shields.io/badge/OPEN-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=black"></a> |
+| 🌌 **Matrix Web Experience** | Matrix-inspired animated website. | <a href="https://4t1f4.github.io/commit1207/"><img src="https://img.shields.io/badge/OPEN-008CFF?style=for-the-badge&logo=googlechrome&logoColor=black"></a> |
 
 </div>
 
@@ -114,16 +114,21 @@ $ whoami
 <br/>
 
 
-<div align="center">
+
 
 ## 🎨 Creative Side
 
-Alongside coding, I also create **Snapchat AR Lenses**, combining creativity with technology to build interactive experiences.
+```console
+atifa@github:~$ creative_mode
 
-✨ My lenses have reached **935M+ views worldwide**, and I enjoy designing fun, engaging AR experiences in addition to building web applications.
+🎭 Snapchat AR Lens Creator
+🌍 935M+ views worldwide
 
+I enjoy blending creativity with technology,
+designing immersive AR experiences and
+interactive web applications that people love to use.
+```
 
-</div>
 
 <br/>
 
@@ -133,16 +138,10 @@ Alongside coding, I also create **Snapchat AR Lenses**, combining creativity wit
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=4t1f4&show_icons=true&theme=github_dark&title_color=00F5FF&icon_color=00F5FF&text_color=E6EDF3&bg_color=0D1117&border_color=00C8FF"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4t1f4&layout=compact&theme=github_dark&title_color=00F5FF&text_color=E6EDF3&bg_color=0D1117&border_color=00C8FF"/>
-
-<img src="https://streak-stats.demolab.com?user=4t1f4&theme=github-dark-blue&background=0D1117&ring=00F5FF&fire=00C8FF&currStreakLabel=00F5FF"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4t1f4&theme=github-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=00C8FF&point=FFFFFF"/>
-
-### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=4t1f4&theme=radical&no-frame=true&row=1&column=6"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=4t1f4&show_icons=true&theme=tokyonight&title_color=00F5FF&icon_color=00C8FF&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=4t1f4&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
 ### 👁️ Visitor Count
 <img src="https://komarev.com/ghpvc/?username=4t1f4&style=for-the-badge&color=00F5FF&label=Profile+Views"/>
@@ -153,17 +152,18 @@ Alongside coding, I also create **Snapchat AR Lenses**, combining creativity wit
 
 
 
-<div align="center">
-
 ## ⚡ Fun Facts
 
-- 🌸 I enjoy turning ideas into real projects
-- 🎨 Snapchat AR Lens Creator (935M+ views)
-- 💻 I love building aesthetic web applications
-- 📚 Currently exploring React, Java, C#, C++ & DSA
-- 💡 I believe the best way to learn is by building
+```bash
+$ cat fun_facts.txt
 
-</div>
+🌸 Turning ideas into real-world projects...
+🎨 Snapchat AR Lens Creator → 935M+ views 🌍
+💻 Building clean & aesthetic web applications
+📚 Currently learning → React • Java • C# • C++ • DSA
+💡 Motto: Learn. Build. Improve. Repeat.
+```
+
 
 <br/>
 
@@ -187,7 +187,7 @@ Alongside coding, I also create **Snapchat AR Lenses**, combining creativity wit
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> -->
 <a href="https://www.snapchat.com/add/noturs06?share_id=XrhGaVIuLYs&locale=en-GB">
-  <img src="https://img.shields.io/badge/Snapchat-D14836?style=for-the-badge&logo=snapchat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
 </a>
 
 </div>
