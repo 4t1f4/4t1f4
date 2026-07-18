@@ -117,14 +117,22 @@ interactive web applications that people love to use.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=4t1f4&show_icons=true&theme=tokyonight&title_color=00F5FF&icon_color=00C8FF&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=4t1f4&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 👁️ Visitor Count
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4t1f4&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00F5FF&line=00C8FF&point=FFFFFF" width="100%"/>
+</p>
+
+<div align="center">
+
+<h3>👁️ Visitor Count</h3>
+
 <img src="https://komarev.com/ghpvc/?username=4t1f4&style=for-the-badge&color=00F5FF&label=Profile+Views"/>
 
 </div>
