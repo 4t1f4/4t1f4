@@ -39,9 +39,11 @@ Become a Full Stack Developer 🚀
 
 
 
-<div align="center">
+
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -134,9 +136,11 @@ interactive web applications that people love to use.
 
 
 
-<div align="center">
+
 
 ## 📊 GitHub Stats
+
+<div align="center">
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=4t1f4&show_icons=true&theme=tokyonight&title_color=00F5FF&icon_color=00C8FF&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
