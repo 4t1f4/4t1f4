@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:00C8FF,100:0066FF&height=250&section=header&text=Hi%20There,%20I'm%20Atifa%20Sajida%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Projects,%20One%20Commit%20at%20a%20Time&descAlignY=55&descSize=18" width="100%"/>
@@ -39,7 +39,7 @@ Become a Full Stack Developer 🚀
 
 
 
-<div align="left">
+<div align="center">
 
 ## 🛠️ Tech Stack
 
@@ -74,7 +74,7 @@ Become a Full Stack Developer 🚀
 
 
 
-<div align="left">
+<div align="center">
 
 ## 📚 Currently Learning
 
@@ -134,7 +134,7 @@ interactive web applications that people love to use.
 
 
 
-<div align="left">
+<div align="center">
 
 ## 📊 GitHub Stats
 
