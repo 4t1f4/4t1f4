@@ -81,12 +81,11 @@ Become a Full Stack Developer 🚀
 
 <div align="center">
 
-
-| Project | Description | Demo |
-|---------|-------------|------|
-| 📚 **KathaVerse** | Interactive storytelling website. | <a href="https://iks-kathaverse.netlify.app/"><img src="https://img.shields.io/badge/OPEN-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black"></a> |
-| 🕊️ **Whisper Pages** | Secure Flask diary. | <a href="https://whisper-pages.onrender.com/"><img src="https://img.shields.io/badge/OPEN-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=black"></a> |
-| 🌌 **Matrix Web Experience** | Matrix-inspired animated website. | <a href="https://4t1f4.github.io/commit1207/"><img src="https://img.shields.io/badge/OPEN-008CFF?style=for-the-badge&logo=googlechrome&logoColor=black"></a> |
+| Project | Description | Demo | Repo |
+|---------|-------------|------|------|
+| 📚 **KathaVerse** | Interactive storytelling website. | <a href="https://iks-kathaverse.netlify.app/"><img src="https://img.shields.io/badge/OPEN-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black"></a> | <a href="https://github.com/4t1f4/IKS-KathaVerse"><img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white"></a> |
+| 🕊️ **Whisper Pages** | Secure Flask diary. | <a href="https://whisper-pages.onrender.com/"><img src="https://img.shields.io/badge/OPEN-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=black"></a> | <a href="https://github.com/4t1f4/Whisper-Pages"><img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white"></a> |
+| 🌌 **Matrix Web Experience** | Matrix-inspired animated website. | <a href="https://4t1f4.github.io/commit1207/"><img src="https://img.shields.io/badge/OPEN-008CFF?style=for-the-badge&logo=googlechrome&logoColor=black"></a> | <a href="https://github.com/4t1f4/commit1207"><img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white"></a> |
 
 </div>
 
