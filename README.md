@@ -117,10 +117,13 @@ interactive web applications that people love to use.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=4t1f4&show_icons=true&theme=tokyonight&title_color=00F5FF&icon_color=00C8FF&hide_border=true&bg_color=00000000&count_private=true&v=2" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=4t1f4&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8&count_private=true&v=2" alt="top langs" />
-</p>
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=4t1f4&theme=tokyonight&hide_border=true&background=00000000&ring=00F5FF&fire=00C8FF&currStreakLabel=00F5FF&sideLabels=00F5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
+
+<br><br>
+
+</div>
 
 
 ## 📈 Contribution Graph
