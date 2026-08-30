@@ -168,7 +168,7 @@ $ cat fun_facts.txt
 <a href="https://github.com/4t1f4">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/atifa-sajida-024879366?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/atifa-sajida?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <!-- <a href="#">
@@ -182,6 +182,7 @@ $ cat fun_facts.txt
 </a>
 
 </div>
+
 
 <br/>
 
