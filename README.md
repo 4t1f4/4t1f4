@@ -1,36 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:00C8FF,100:0066FF&height=250&section=header&text=Hi%20There,%20I'm%20Atifa%20Sajida%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Projects,%20One%20Commit%20at%20a%20Time&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00C8FF&fontSize=48&height=90&text=Hello!%20I'm%20Atifa%20Sajida" alt="Hello! I'm Atifa Sajida" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=25&duration=3200&pause=900&color=00C8FF&center=true&vCenter=true&width=750&lines=B.Sc.+Computer+Science+Student;Python+%7C+Java+%7C+C%23+%7C+C%2B%2B;HTML+%7C+CSS+%7C+JavaScript;Flask+%7C+FastAPI+%7C+React+%7C+SQL+%7C+MySQL;Snapchat+AR+Lens+Creator;Building+Projects,+One+Commit+at+a+Time;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
-</a>
+<p> <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&duration=3200&pause=900&color=00C8FF&center=true&vCenter=true&width=750&height=44&lines=Computer+Science+Student+%7C+Web+%26+AR+Creator;Python+%7C+Flask+%7C+FastAPI+%7C+React;Building+projects%2C+one+commit+at+a+time;Turning+ideas+into+real-world+projects" alt="Typing headlines" /> </p>
 
 </div>
 
 <br/>
 
-## 💠 About Me
+### 🚀 About Me
 
-```console
-atifa@github:~$ whoami
+Computer Science student who enjoys building things with code and creativity.
 
-👩‍💻 Atifa Sajida
-
-atifa@github:~$ education
-🎓 B.Sc. Computer Science
-
-atifa@github:~$ interests
-• Full Stack Development
-• Web Development
-• AR Experiences
-
-atifa@github:~$ current_status
-Building projects while learning new technologies...
-
-atifa@github:~$ goal
-Become a Full Stack Developer 🚀
-```
+🎓 &nbsp;I'm currently pursuing **B.Sc. Computer Science**  
+💻 &nbsp;I enjoy **Web Development & Application Development**  
+🐍 &nbsp;Working with **Python, Flask, FastAPI & React**  
+🎭 &nbsp;**Snapchat AR Lens Creator** with **935M+ views worldwide**  
+🔭 &nbsp;Currently learning and building projects with new technologies Currently learning and building projects with new technologies
 
 <br/>
 
@@ -85,35 +71,26 @@ Become a Full Stack Developer 🚀
 
 <br/>
 
-## 🎨 Creative Side
-
-```console
-atifa@github:~$ creative_mode
-
-🎭 Snapchat AR Lens Creator
-🌍 935M+ views worldwide
-
-I enjoy blending creativity with technology,
-designing immersive AR experiences and
-interactive web applications that people love to use.
-```
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=4t1f4&theme=tokyonight&hide_border=true&background=00000000&ring=00F5FF&fire=00C8FF&currStreakLabel=00F5FF&sideLabels=00F5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
-
-<br><br>
-
-</div>
-
-## 📈 Contribution Graph
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4t1f4&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00F5FF&line=00C8FF&point=FFFFFF" width="100%"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=4t1f4&show_icons=true&theme=tokyonight&title_color=00C8FF&icon_color=00C8FF&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4t1f4&layout=compact&theme=tokyonight&title_color=00C8FF&icon_color=00C8FF&hide_border=true&bg_color=00000000&langs_count=8" alt="Most Used Languages" />
+</p>
+
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=4t1f4&theme=tokyonight&hide_border=true&background=00000000&ring=00F5FF&fire=00C8FF&currStreakLabel=00C8FF&sideLabels=00C8FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+</p>
+
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4t1f4&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00C8FF&line=00C8FF&point=FFFFFF&area=true" alt="Contribution Graph" />
 </p>
 
 <div align="center">
@@ -126,19 +103,6 @@ interactive web applications that people love to use.
 
 <br/>
 
-## ⚡ Fun Facts
-
-```bash
-$ cat fun_facts.txt
-
-🌸 Turning ideas into real-world projects...
-🎨 Snapchat AR Lens Creator → 935M+ views 🌍
-💻 Building clean & aesthetic web applications
-📚 Currently learning → FastAPI • React • Java • C# • C++ • DSA
-💡 Motto: Learn. Build. Improve. Repeat.
-```
-
-<br/>
 
 <div align="center">
 
@@ -164,8 +128,8 @@ $ cat fun_facts.txt
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:008CFF,100:00F5FF&height=120&section=footer" width="100%"/>
 
-<div align="center">
-  <sub><b>Learning never stops. One commit at a time. 💠</b></sub>
-</div>
+
+<p align="center">
+  <i>Learning never stops. One commit at a time. 💠</i>
+</p>
