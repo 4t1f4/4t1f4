@@ -74,10 +74,11 @@ Computer Science student who enjoys building things with code and creativity.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=4t1f4&show_icons=true&theme=tokyonight&title_color=00C8FF&icon_color=00C8FF&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4t1f4&layout=compact&theme=tokyonight&title_color=00C8FF&icon_color=00C8FF&hide_border=true&bg_color=00000000&langs_count=8" alt="Most Used Languages" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=4t1f4&show_icons=true&theme=tokyonight&title_color=00C8FF&icon_color=00F5FF&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=4t1f4&layout=compact&theme=tokyonight&title_color=00C8FF&icon_color=FFFFFF&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
+
+
 
 
 ### 🔥 Contribution Streak
@@ -87,11 +88,6 @@ Computer Science student who enjoys building things with code and creativity.
 </p>
 
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4t1f4&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00C8FF&line=00C8FF&point=FFFFFF&area=true" alt="Contribution Graph" />
-</p>
 
 <div align="center">
 
@@ -103,6 +99,11 @@ Computer Science student who enjoys building things with code and creativity.
 
 <br/>
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=4t1f4&bg_color=00000000&color=00C8FF&line=00C8FF&point=00F5FF&area=true&hide_border=true" alt="activity graph" />
+</p>
 
 <div align="center">
 
